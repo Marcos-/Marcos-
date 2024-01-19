@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcos-
 - 👀 I’m interested in good coffee and usefull apps
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking foward to collaborate on creating apps for small and medium businesses
 - 📫 How to reach me: send an e-mail to marcos10@outlook.com
 
