@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marcos-
-- 👀 I’m interested in good coffee and usefull apps
-- 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking foward to collaborate on creating apps for small and medium businesses
+- 👀 I'm a fullstack developer (React + Node)
+- 🌱 I'm currently learning Java Spring Boot
+- 💞️ Do you want to create apps for small and medium businesses? DM me.
 - 📫 How to reach me: send an e-mail to marcos10@outlook.com
 
 <!---
