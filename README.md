@@ -1,9 +1,9 @@
-- 👋 Hi, my name is Marcos
-- 👀 I'm a fullstack developer (React + Node)
-- 🌱 I'm currently learning Java Spring Boot
-- 💞️ Do you want to create apps for small and medium businesses? DM me.
-- 📫 How to reach me: send an e-mail to marcos10@outlook.com
-- 🔗 Check out more in my website: www.marcosmarques.com.br
+👋 Hi, I'm Marcos  
+💻 Full-stack Developer focused on React & Node.js  
+🚀 Experience with Flutter, Python and Next.js  
+🧠 Building scalable apps, automations and AI-driven solutions  
+📫 Contact: marcos10@outlook.com  
+🔗 Portfolio: www.marcosmarques.com.br
 
 <!---
 Marcos-/Marcos- is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
